@@ -1,0 +1,11 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Standard .gitignore exclusions for reference (optional, as .gitignore is read by default)
+# yarn-error.log
+# .npm/
+# .eslintcache
+
+# You can add other large or unnecessary folders here:
+# android/
+# ios/
